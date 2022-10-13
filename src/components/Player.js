@@ -59,8 +59,8 @@ const Wapper = styled.div`
   align-items: center;
   flex-direction: column;
 
-  width: 500px;
-  height: 1000px;
+  width: 400px;
+  height: 850px;
 
   border: 1px solid white;
   border-radius: 40px;

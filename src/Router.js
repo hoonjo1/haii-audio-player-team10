@@ -6,8 +6,8 @@ function Router() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={<RecordPage />} />
-        <Route path='/player' element={<PlayerPage />} />
+        <Route path="/" element={<RecordPage />} />
+        <Route path="/player" element={<PlayerPage />} />
       </Routes>
     </BrowserRouter>
   );
